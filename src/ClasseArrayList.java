@@ -47,7 +47,7 @@ public class ClasseArrayList {
 		
 		System.out.println(listaCores.indexOf("Vermelho")); // Exibe o indice da lista de um determinado valor
 		
-		System.out.println(listaCores.isEmpty()); // Veririca se a lista está vazia
+		System.out.println(listaCores.isEmpty()); // Verifica se a lista está vazia
 		
 		listaCores.set(5, "Rosa"); // Permite a atualização de valores na lista
 		
@@ -61,7 +61,7 @@ public class ClasseArrayList {
 			System.out.println(cores);
 		}
 		
-		// É possivel percorrer a lista través de for simples acessado os valores pelo método get
+		// É possivel percorrer a lista através de for simples acessando os valores pelo método get
 		System.out.println("========");
 		
 		for(int i= 0; i < listaCores.size(); i++) {
@@ -69,8 +69,7 @@ public class ClasseArrayList {
 		}
 		
 		
-	    // É possível percorrer através de iterator
-		
+	    // É possível percorrer através de iterator		
 		Iterator<String>listaIterator = listaCores.iterator();
 		System.out.println("=========");
 		
@@ -81,7 +80,7 @@ public class ClasseArrayList {
 		
 		
 		/*
-		 * Como visto, a utilização da classe ArrayList é flexível e permite um série de funcionalidade que podem ser muito útil no dia a dia
+		 * Como visto, a utilização da classe ArrayList é flexível e permite um série de funcionalidades que podem ser muito útil no dia a dia.
 		 */
 				
 
