@@ -22,6 +22,8 @@ public class ClasseArrayList {
 		listaCores.add("Cinza");
 		listaCores.add("Branco");
 		listaCores.add("Branco"); // A lista aceita valores repetidos
+		listaCores.add("");
+		listaCores.add(null);
 		
 		System.out.println(listaCores);
 		

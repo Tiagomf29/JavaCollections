@@ -17,6 +17,9 @@ public class ClasseQueue {
 		fila.add("Rogerio");
 		fila.add("Silvia");
 		fila.add("Carmem");
+		fila.add("Carmem"); // Aceita valores repetidos
+		fila.add("");
+		fila.add(null);
 		
 		System.out.println(fila); // Exibe todos os valores da fila na ordem de inserção		
 		
