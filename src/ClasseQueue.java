@@ -18,7 +18,10 @@ public class ClasseQueue {
 		fila.add("Silvia");
 		fila.add("Carmem");
 		
-		System.out.println(fila); // Exibe todos os valores da fila na ordem de inserção
+		System.out.println(fila); // Exibe todos os valores da fila na ordem de inserção		
+		
+		fila.remove("Rogerio");
+		System.out.println(fila); // Permite a remoção de um valor da fila
 		
 		// Collections.sort(fila); Não permite ordenação
 		
