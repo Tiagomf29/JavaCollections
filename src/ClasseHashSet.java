@@ -61,8 +61,7 @@ public class ClasseHashSet {
 		/* O HashSet tem como característica principal não manter a ordem dos seus elementos conforme a inserção dos mesmos,
 		 * não permite ordenação e reordenação dos elementos, não permite elementos repetidos e não permite o acesso a qualquer 
 		 * elemento através de posição do set por algum método como por exemplo o método get que existe no ArrayList */
-				
-		
+						
 	}
 
 }
