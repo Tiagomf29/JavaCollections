@@ -1,3 +1,4 @@
+package br.com.estudos;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Iterator;
@@ -23,7 +24,6 @@ public class ClasseArrayList {
 		listaCores.add("Branco");
 		listaCores.add("Branco"); // A lista aceita valores repetidos
 		listaCores.add("");
-		listaCores.add(null);
 		
 		System.out.println(listaCores);
 		
