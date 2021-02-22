@@ -1,4 +1,4 @@
-package br.com.estudos;
+package br.com.estudos.collections;
 import java.util.HashSet;
 import java.util.Iterator;
 
